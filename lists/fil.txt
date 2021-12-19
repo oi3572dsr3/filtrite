@@ -1,0 +1,46 @@
+vigiato.net##.digiad, .digiad-vertical
+zoomg.ir##.InternalHeader, .text-center
+zoomg.ir##section.sepratorContains:nth-child(6) > div.main-top-ads.headerContainer.container:first-child
+tarafdari.com##.wOPi3Z6Gtwms7Amtj_kAF
+tarafdari.com##section.container:nth-child(12) > aside.column.column-content:first-child > article.node-content.node-1914851.node.node-news.node-promoted.view-mode-full.clearfix:nth-child(3) > div.node-main-content:nth-child(7) > div.hot-links:nth-child(3) > ul:last-child > li:first-child
+tarafdari.com##._3q7bYcOBBz6OsWOV_-S5CL
+tarafdari.com##._3yaXXF1F84Ds_hPkNCiJHa
+tarafdari.com##.Edwate_fVePLTxSfDF8rP
+tarafdari.com##._2kip19lItc3YhIODben7iz
+shahrsakhtafzar.com##.flexbannergroup, .ads2col
+###ads_bottom_of_post_box_2
+pesfa.com##.textwidget, .custom-html-widget
+pesfa.com###index_page_row > div.page_sidebar:last-child > div.widget_text.sidebar_item.box:last-child > div.sidebar_item_title:first-child > h4
+gamefa.com##.d-table-cell, .align-middle
+gamefa.com###top-banners
+gamefa.com###image-advertise
+sakhtafzarmag.com##.insta-message
+zoomg.ir##section.sepratorContains:nth-child(4) > div.main-top-ads.headerContainer.container:first-child
+zoomg.ir##section.sepratorContains:nth-child(4) > div.main-inside-ads.headerContainer.container:nth-child(3)
+sakhtafzarmag.com###header-ads
+zoomg.ir##section.sepratorContains:nth-child(6) > div.main-inside-ads.headerContainer.container:nth-child(3)
+gsm.ir##.sidebar_tabliq
+gsm.ir##.a_gsm_d
+gsm.ir##div.container-fluid.padding-left-reset.padding-right-reset:nth-child(4) > div.container:nth-child(10) > div.col-xs-12.padding-lr-reset > div.col-xs-12.padding-lr-reset.back-white-xs:nth-child(3) > div.index-content-a-container.col-xs-12:first-child > div.col-xs-12.position-relative.clearfix:first-child > div.row:first-child
+gsm.ir###slideshow > div.slideshow-inner:first-child > div.item.active:first-child > div.slideshow-small-wrapper:first-child > div.slideshow-small-box:first-child
+zoomg.ir##.top-ads, .InternalHeader, .text-center, .wide-ad-row
+zoomg.ir##.banner-wrapper
+zoomit.ir##.container-fluid
+zoomit.ir##.wide-adv-row
+zoomit.ir##.article-related-row
+zoomit.ir##.wide-adv-row-home, .top-landing-banner
+zoomit.ir##.text-center, .mrg10T, .wide-adv-box
+zoomit.ir##.article-related-row
+zoomit.ir##.wide-adv-row-home, .top-landing-banner
+gamefa.com##.fix-bottom-ads
+###pos-article-display-4253
+tarafdari.com##.hot-links
+tarafdari.com##.yn-article-text, .yn-borderbox, .YEKTANET
+tarafdari.com##section.container:nth-child(13) > aside.column.column-side:last-child > div.block:nth-child(13)
+tarafdari.com##.yn-bnr, .processed
+vigiato.net##.digiad, .digiad-vertical
+shahrsakhtafzar.com##.flexbannergroup
+zoomit.ir##.banner-wrapper
+digiato.com##.digiad, .digiad-vertical
+par30games.net##.fixedbanner
+par30games.net##.sideads
